@@ -1,0 +1,5 @@
+Pomodoro Technique
+
+-each pomodoro or interval is 25 min focused 
+ and 5 min break by defualt
+-after 4 interval take a long break 15-30 min
